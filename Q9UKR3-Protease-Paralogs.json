@@ -13,7 +13,13 @@
     },
 "page:Q9UKR3":
 {"h2:caption": "Q9UKR3 - Results",
-"md:info0": "This page presents details for the Q9UKR3 protein. Aplhafold2 structure predeiction shown below.", 
+"md:info0": "This page presents details for the Q9UKR3 protein. Aplhafold2 structure predeiction shown below.",
+"seq:protease": "sp|Q9UKR3|KLK13_HUMAN Kallikrein-13 OS=Homo sapiens OX=9606 GN=KLK13 PE=1 SV=1
+MWPLALVIASLTLALSGGVSQESSKVLNTNGTSGFLPGGYTCFPHSQPWQAALLVQGRLL
+CGGVLVHPKWVLTAAHCLKEGLKVYLGKHALGRVEAGEQVREVVHSIPHPEYRRSPTHLN
+HDHDIMLLELQSPVQLTGYIQTLPLSHNNRLTPGTTCRVSGWGTTTSPQVNYPKTLQCAN
+IQLRSDEECRQVYPGKITDNMLCAGTKEGGKDSCEGDSGGPLVCNRTLYGIVSWGDFPCG
+QPDRPGVYTRVSRYVLWIRETIRKYETQQQKWLKGPQ",
 "pdb:structure": {"pdb": "https://alphafold.ebi.ac.uk/files/AF-Q9UKR3-F1-model_v4.pdb", 
 "name": "Q9UKR3 Alphafold2 Prediction", "height": "300px"}, 
 "h3:all": "List of Protease Paralogs of the Q9UKR3 Protein", 
