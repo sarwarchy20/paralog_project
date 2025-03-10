@@ -6,15 +6,19 @@
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
   "rows": [["Q9UKR3@Q9UKR3"]]},
-    "img:logo1:4": {
+    "img:logo1:3": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
         "height": "200"
     },
-    "img:logo2:4": {
+    "img:logo2:3": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
         "height": "200"
     },
-   "img:logo3:4": {
+   "img:logo3:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
+        "height": "200"
+    },
+   "img:logo4:3": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
         "height": "200"
     },
