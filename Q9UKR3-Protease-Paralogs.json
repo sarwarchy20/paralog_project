@@ -13,8 +13,8 @@
     },
 "page:Q9UKR3":
 {"h2:caption": "Q9UKR3 - Results",
-"md:info0": "This page presents details for the Q9UKR3 protein. Aplhafold2 structure predeiction shown below.",
 "seq:spike_protein": "SIPHLELQSPVQLTGYIQTLPLSHNNRLTPGTTCRVSGWGTTTSPQCGQPDRPGVYTRVSRYVLWIRETIRKYETQQQKWLKGPQ",
+"md:info0": "This page presents details for the Q9UKR3 protein. Aplhafold2 structure predeiction shown below.",
 "pdb:structure": {"pdb": "https://alphafold.ebi.ac.uk/files/AF-Q9UKR3-F1-model_v4.pdb", 
 "name": "Q9UKR3 Alphafold2 Prediction", "height": "300px"}, 
 "h3:all": "List of Protease Paralogs of the Q9UKR3 Protein", 
