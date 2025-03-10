@@ -2,7 +2,7 @@
 "title": "Q9UKR3-Protease-Human-Paralogs", 
 "h2:caption": "Q9UKR3-Protease-Paralogs", 
 "md:info": "This page presents the detail results of the **Q9UKR3** **Protease** **Protein**.",
-"h3:caption2": "List of Proteins",
+"h3:caption2": "List of Proteins", 
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
   "rows": [["Q9UKR3@Q9UKR3"]]},
