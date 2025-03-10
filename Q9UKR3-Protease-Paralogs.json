@@ -6,8 +6,11 @@
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
   "rows": [["Q9UKR3@Q9UKR3"]]},
-"p:intro:6": "8217_scaled_20_pc1!",
-    "img:logo:6": {
+    "img:logo:3": {
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
+        "height": "200"
+    },
+    "img:logo:3": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
         "height": "200"
     },
