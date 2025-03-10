@@ -2,15 +2,17 @@
 "title": "Q9UKR3-Protease-Human-Paralogs", 
 "h2:caption": "Q9UKR3-Protease-Paralogs", 
 "md:info": "This page presents the detail results of the **Q9UKR3** **Protease** **Protein**.",
-"h3:caption2": "List of Proteins", 
+"h3:caption2": "List of Proteins",
+"md:column1:6":
 "table:unipList":
   {"columns": ["l:Uniprot ID"],
-  "rows": [["Q9UKR3@Q9UKR3"]]},
+  "rows": [["Q9UKR3@Q9UKR3"]]},,
+"md:column2:6":
 "p:intro:6": "8217_scaled_20_pc1!",
     "img:logo:6": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
         "height": "200"
-    },
+    },,
 "page:Q9UKR3":
 {"h2:caption": "Q9UKR3 - Results",
 "seq:protease_protein": "MWPLALVIASLTLALSGGVSQESSKVLNTNGTSGFLPGGYTCFPHSQPWQAALLVQGRLLCGGVLVHPKWVLTAAHCLKEGLKVYLGKHALGRVEAGEQVREVVHSIPHPEYRRSPTHLNHDHDIMLLELQSPVQLTGYIQTLPLSHNNRLTPGTTCRVSGWGTTTSPQVNYPKTLQCANIQLRSDEECRQVYPGKITDNMLCAGTKEGGKDSCEGDSGGPLVCNRTLYGIVSWGDFPCGQPDRPGVYTRVSRYVLWIRETIRKYETQQQKWLKGPQ",
