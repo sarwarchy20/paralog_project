@@ -14,7 +14,7 @@
     "pdb2":"https://alphafold.ebi.ac.uk/files/AF-Q9Y5K2-F1-model_v4.pdb",
     "name2":"Q9Y5K2",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
-    "lineLen":90,
+    "lineLen":80,
     "info":"Aligned P08217 with Q9Y5K2 using PROST. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
   },
   "h3:caption": "PCs plots",
