@@ -17,7 +17,7 @@
     "lineLen":75,
     "info":"Aligned P08217 with Q9Y5K2 using PROST. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
   },
-  "h3:caption": "PCs plots",
+  "h3:caption": "PCs plots:the superimposed figures scaled at ± 50 at their PC1, PC2 extremes for two known serine proteases - link@P08217 and link@Q9Y5K2",
   "img:logo1:2.4": {
         "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc1.png",
         "height": "230",
