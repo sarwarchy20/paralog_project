@@ -15,7 +15,7 @@
     "name2":"Q9Y5K2",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
     "lineLen":75,
-    "info":"Alignment using PROST"
+    "info":"Alignment P08217 with Q9Y5K2 using PROST. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
   },
   "h3:caption": "PCs plots",
   "img:logo1:2.4": {
