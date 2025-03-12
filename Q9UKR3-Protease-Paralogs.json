@@ -13,7 +13,7 @@
     "name1":"P08217",
     "pdb2":"https://alphafold.ebi.ac.uk/files/AF-Q9Y5K2-F1-model_v4.pdb",
     "name2":"Q9Y5K2",
-    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/O60091.P36525.pdb",
+    "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
     "lineLen":75,
     "info":"Alignment using PROST"
   },
