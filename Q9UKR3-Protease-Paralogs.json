@@ -7,31 +7,32 @@
   {"columns": ["l:Uniprot ID"],
   "rows": [["Q9UKR3@Q9UKR3"]]},
 "page:Q9UKR3":
-{"h2:caption": "A1L453 and A6NIE9 Alignment",
+{"h2:caption": "P08217 and Q9Y5K2 Alignment",
  "alnpdb:alignment":{
-    "pdb1":"https://alphafold.ebi.ac.uk/files/AF-A1L453-F1-model_v4.pdb",
-    "name1":"A1L453",
-    "pdb2":"https://alphafold.ebi.ac.uk/files/AF-A6NIE9-F1-model_v4.pdb",
-    "name2":"A6NIE9",
+    "pdb1":"https://alphafold.ebi.ac.uk/files/AF-P08217-F1-model_v4.pdb",
+    "name1":"P08217",
+    "pdb2":"https://alphafold.ebi.ac.uk/files/AF-Q9Y5K2-F1-model_v4.pdb",
+    "name2":"Q9Y5K2",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/tmp_json/master/test_data/O60091.P36525.pdb",
     "lineLen":75,
-    "info":"PROST found O60091 as homolog of P36525"
+    "info":"Alignment using PROST"
   },
   "h3:caption": "PCs plots",
   "img:logo1:2.4": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
-        "height": "230"
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc1.png",
+        "height": "230",
+        "name1":"P08217_scaled_50_pc1"
     },
     "img:logo2:2.4": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_scaled_50_pc2.png",
         "height": "230"
     },
    "img:logo3:2.4": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc1.png",
         "height": "230"
     },
    "img:logo4:2.4": {
-        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/8217_scaled_20_pc1.png",
+        "src": "https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/Q9Y5K2_scaled_50_pc2.png",
         "height": "230"
     },
    "img:logo5:2.4": {
