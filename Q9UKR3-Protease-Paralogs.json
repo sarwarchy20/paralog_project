@@ -15,7 +15,7 @@
     "name2":"Q9Y5K2",
     "alnpdb":"https://raw.githubusercontent.com/sarwarchy20/paralog_project/master/data/P08217_Q9Y5K2.pdb",
     "lineLen":70,
-    "info":"Aligned P08217 with Q9Y5K2 using PROST. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
+    "info":"Aligned P08217 with Q9Y5K2 using by PROTSUB. The alignment with FATCAT tool produces significant similarity with a p-value of 1.44e-15."
   },
   "h3:caption": "PCs plots",
   "md:info":"The superimposed figures of PC1 and PC2 extremes for two known serine proteases - **P08217:Chymotrypsin-like elastase family member 2A** and **Q9Y5K2:Kallikrein-4**.(Figures below, from left to right: PC1 and PC2 for P08217, PC1 and PC2 for Q9Y5K2)",
